@@ -10,7 +10,8 @@ and need for creativity is what drove me to pursue a career
 as a developer. The sole motivation behind my work is to create;
 to one day be able to offer people memorable and treasured experiences,
 akin to the ones I was lucky enough to have as a child - through games.</p>
-<h2>Contact and General Information:</h2>
+<h4>Contact and General Information:</h4>
+<p>Location: Easton, Pennsylvania, United States</p>
 <p> Email: yinzhe.dy@gmail.com</p>
 <p href="https://github.com/yinzhedy"> GitHub: yinzhedy </p>
 </div>)

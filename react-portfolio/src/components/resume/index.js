@@ -4,7 +4,7 @@ const Resume = () => {
          <br/>
          <h1>Resume</h1>
          <br/>
-         <h2>Education</h2>
+         <h4>Education</h4>
          <p>
          University of Pennsylvania Coding Bootcamp
 Full Stack - Full Time• November 2021
@@ -12,7 +12,7 @@ Full Stack - Full Time• November 2021
 - Certfication
          </p>
          <br/>
-         <h2>Languages / Skills</h2>
+         <h4>Languages / Skills</h4>
          <p>HTML5</p>
          <br/>
          <p>Javascript</p>
