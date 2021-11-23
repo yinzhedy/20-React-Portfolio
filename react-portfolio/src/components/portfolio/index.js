@@ -10,6 +10,7 @@ import Card from 'react-bootstrap/Card'
 
 const Portfolio = () => (
 <Accordion id="portfolio">
+<h1> Portfolio </h1>
   <Accordion.Item eventKey="0" width={300}>
     <Accordion.Header> Shadow Chaser
         <Card id="shadow-chaser-card"className="bg-dark text-white">

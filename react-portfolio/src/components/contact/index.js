@@ -13,7 +13,8 @@ const ContactForm = () => {
   window.open('mailto:' + email + "?subject=" + subject + "&body=" + body)
     })
     return (
-<Form>
+<Form id="contact-form">
+    <h1> Contact Form</h1>
   <Form.Group className="mb-3" controlId="formBasicEmail">
     <Form.Label>Your Email Address</Form.Label>
     <Form.Control id="contact-form-email" type="email" placeholder="Enter email" />
@@ -26,9 +27,6 @@ const ContactForm = () => {
   <Form.Group className="mb-3" controlId="formBasicPassword">
     <Form.Label>Message</Form.Label>
     <Form.Control  id="contact-form-message" type="message" placeholder="message" />
-  </Form.Group>
-  <Form.Group className="mb-3" controlId="formBasicCheckbox">
-    <Form.Check type="checkbox" label="Check me out" />
   </Form.Group>
   <Button id="send-email-button" variant="primary" type="submit">
     Send me an email
