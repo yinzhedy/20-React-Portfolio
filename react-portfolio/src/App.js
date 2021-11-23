@@ -5,12 +5,16 @@ import Header from './components/header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Portfolio from './components/portfolio';
 import Resume from './components/resume';
+import ContactForm from './components/contact';
+
 
 function App() {
+  
   return (
     <div className="App">
         < Header />
         <Portfolio/>
+        <ContactForm/>
         < Footer />
     </div>
   );
