@@ -1,16 +1,33 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
-![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
+# React-Portfolio
+
+## Description
+A portfolio created using React. Showcases my works, displays my resume, and provides contact information. Portfolio works include links to their deployments. 
+
+## Table of Contents 
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+Ensure all dependencies in package.json are installed. Run "npm start" and the application should be good to go.
 
 
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+## Usage
+Link to deployed application on heroku:
+https://react-portfolio-homework-20.herokuapp.com/
 
-## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
 
-## How to use
-1. Clone/Download the repo.
-2. Run  ``` npm install ```.
-3. Change the values in ```src/resumeData.js``` to suit your use-case.
-4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
-5. Make required changes in ```src/resumeData.js``` to suit your needs.
+## Contributing
+For any contributions please reach out via the contact info section.
 
+## Questions
+Please refer to the below contact information for any questions:
+
+Github Profile - yinzhedy
+
+Github Profile Link - https://github.com/yinzhedy
+
+Email - yinzhe.dy@gmail.com
