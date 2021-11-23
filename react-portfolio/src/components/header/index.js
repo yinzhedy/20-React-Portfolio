@@ -10,7 +10,7 @@ const Header = () => (
     <Navbar.Brand href="#home">Yinzhe D.Y.</Navbar.Brand>
     <Nav className="me-auto">
       <Nav.Link href="#home">Home</Nav.Link>
-      <Nav.Link href="#home">About</Nav.Link>
+      <Nav.Link href="#about-me">About</Nav.Link>
       <Nav.Link href="#resume">Resume</Nav.Link>
       <Nav.Link href="#portfolio">Portfolio</Nav.Link>
       <Nav.Link href="#contact-form">Get in touch</Nav.Link>
