@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Portfolio from './components/portfolio';
 import Resume from './components/resume';
 import ContactForm from './components/contact';
+import About from './components/about';
 
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
   return (
     <div className="App">
         < Header />
+        <About/>
+        <Resume/>
         <Portfolio/>
         <ContactForm/>
         < Footer />
