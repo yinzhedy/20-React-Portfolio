@@ -21,7 +21,7 @@ const Portfolio = () => (
     <Accordion.Body> A full MERN stack playable game. Created with:
       -Javascript
       -Express
-      -Apollo
+      -React
       -Heroku
       <ButtonGroup aria-label="Basic example" size="sm">
 
