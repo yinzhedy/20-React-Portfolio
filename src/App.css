@@ -1,15 +1,18 @@
 .App {
   text-align: center;
+  font-family: 'Lora', serif;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  font-family: 'Lora', serif;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
+    font-family: 'Lora', serif;
   }
 }
 
@@ -20,12 +23,14 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(20px + 2vmin);
   color: white;
+  font-family: 'Lora', serif;
 }
 
 .App-link {
   color: #61dafb;
+  font-family: 'Lora', serif;
 }
 
 @keyframes App-logo-spin {
@@ -38,25 +43,80 @@
 }
 #shadow-chaser-card {
   background-image: url('./images/screenshot.png');
+  filter: grayscale(100%);
+  margin-bottom: 10px;
   width: 100%;
   height: 250px;
   background-size: contain no-repeat;
+  font-family: 'Lora', serif;
 }
 #date-night-card {
   background-image: url('./images/date-night.jpg');
+  filter: grayscale(100%);
+  margin-bottom: 10px;
   width: 100%;
   height: 250px;
   background-size: contain no-repeat;
+  font-family: 'Lora', serif;
 }
 #fitness-tracker-card {
   background-image: url('./images/fitness-tracker.PNG');
+  filter: grayscale(100%);
+  margin-bottom: 10px;
   width: 100%;
   height: 250px;
   background-size: contain no-repeat;
+  font-family: 'Lora', serif;
 }
 #budget-tracker-card {
   background-image: url('./images/budget-tracker.PNG');
+  filter: grayscale(100%);
+  margin-bottom: 10px;
   width: 100%;
   height: 250px;
   background-size: contain no-repeat;
+  font-family: 'Lora', serif;
+}
+
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#contact-form {
+  font-family: 'Lora', serif;
+  margin-right: 40%;
+  margin-left: 20%;
+  margin-top: 20%
+}
+
+#bg-nested-dropdown {
+  margin-left: 10px;
+  background-color: grey;
+  border: lavender;
+}
+#send-email-button {
+  background-color: grey;
+  border: lavender;
+}
+
+#github-link {
+  color:black;
+}
+
+#about-me {
+  font-family: 'Lora', serif;
+  margin-top: 5%;
+  margin-bottom: 10%;
+  margin-left: 25%;
+}
+
+#resume {
+  margin-right: 40%;
+  font-family: 'Lora', serif;
+}
+
+#portfolio {
+  margin-left: 25%;
+  font-family: 'Lora', serif;
 }
