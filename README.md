@@ -19,6 +19,9 @@ Ensure all dependencies in package.json are installed. Run "npm start" and the a
 Link to deployed application on heroku:
 https://react-portfolio-homework-20.herokuapp.com/
 
+due to recent changes with heroku service, please refer to render ddeployment instead:
+https://yinzhe-dong-ydeen-portfolio.onrender.com/
+
 
 ## Contributing
 For any contributions please reach out via the contact info section.
